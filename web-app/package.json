@@ -28,7 +28,7 @@
     "react-window-infinite-loader": "^1.0.9",
     "recharts": "^2.12.7",
     "styled-components": "5.3.11",
-    "superagent": "^9.0.2",
+    "superagent": "^10.2.2",
     "tinycolor2": "^1.6.0"
   },
   "scripts": {
